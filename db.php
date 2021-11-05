@@ -1,7 +1,18 @@
 <?php
-mysqli_connect(
+
+session_start();
+
+$conn = mysqli_connect(
     'localhost',
     'root',
     '',
     'php_crud_one'
 );
+
+
+ 
+
+?>
+
+
+

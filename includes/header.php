@@ -12,7 +12,8 @@
   <body>
     <nav class="navbar navbar-dark bg-dark">
       <div class="container">
-        <a class="navbar-brand" href="index.php">PHP MySQL CRUD</a>
+        <a href="index.php" class="navbar-brand" href="index.php">PHP MySQL CRUD</a>
       </div>
     </nav>
-    <!-- https://github.com/ThineAungCoder/php_crud_one.git -->
+   
+    
